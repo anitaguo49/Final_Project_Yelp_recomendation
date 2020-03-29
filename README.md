@@ -4,13 +4,7 @@ This is the last project while at Flatiron School Data Science Immersive Program
 -- Project Status: [Completed]
 
 # Project Intro/Objective
-The purpose of this project is to create a Yelp Recommendation system by using Neighborhood-based Collaborative Filtering models to get business recommendations for users. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-# Partner
-[Name of Partner organization/Government department etc..]
-Website for partner
-Partner contact: [Name of Contact], [slack handle of contact if any]
-If you do not have a partner leave this section out
+The purpose of this project is to create a Yelp Recommendation system by using Neighborhood-based Collaborative Filtering models to get business recommendations for users. The model makes predictions (filtering) about the interests of a user by collecting preferences or information from many users (collaborating). The assumption is that if a person A has the same opinion as a person B on an issue, A is more likely to have B's opinion on a different issue.
 
 # Methods Used
 Inferential Statistics

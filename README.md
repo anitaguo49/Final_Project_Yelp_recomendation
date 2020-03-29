@@ -1,22 +1,25 @@
 # Yelp Recomendation System
-This project is a part of the Data Science Working Group at Code for San Francisco. Other DSWG projects can be found at the main GitHub repo.
+This is the last project while at Flatiron School Data Science Immersive Program (on campus) in New York City. Other projects can be found at the main GitHub repo.
 
--- Project Status: [Active, On-Hold, Completed]
-Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+-- Project Status: [Completed]
 
-Partner
+# Project Intro/Objective
+The purpose of this project is to create a Yelp Recommendation system by using Neighborhood-based Collaborative Filtering models to get business recommendations for users. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+
+# Partner
 [Name of Partner organization/Government department etc..]
 Website for partner
 Partner contact: [Name of Contact], [slack handle of contact if any]
 If you do not have a partner leave this section out
-Methods Used
+
+# Methods Used
 Inferential Statistics
 Machine Learning
 Data Visualization
 Predictive Modeling
 etc.
-Technologies
+
+# Technologies
 R
 Python
 D3
@@ -25,17 +28,19 @@ Pandas, jupyter
 HTML
 JavaScript
 etc.
-Project Description
+
+# Project Description
 (Provide more detailed overview of the project. Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing? Feel free to number or bullet point things here)
 
-Needs of this project
+# Needs of this project
 frontend developers
 data exploration/descriptive statistics
 data processing/cleaning
 statistical modeling
 writeup/reporting
 etc. (be as specific as possible)
-Getting Started
+
+# Getting Started
 Clone this repo (for help see this tutorial).
 
 Raw Data is being kept [here](Repo folder containing raw data) within this repo.
@@ -49,18 +54,16 @@ etc...
 If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here
 
 Follow setup [instructions](Link to file)
-Featured Notebooks/Analysis/Deliverables
+
+# Featured Notebooks/Analysis/Deliverables
 Notebook/Markdown/Slide Deck Title
 Notebook/Markdown/Slide DeckTitle
 Blog Post
-Contributing DSWG Members
+
+# Contributing Members
 Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)
 
-Other Members:
-Name	Slack Handle
-[Full Name](https://github.com/[github handle])	@johnDoe
-[Full Name](https://github.com/[github handle])	@janeDoe
-Contact
+# Contact
 If you haven't joined the SF Brigade Slack, you can do that here.
 Our slack channel is #datasci-projectname
 Feel free to contact team leads with any questions or if you are interested in contributing!

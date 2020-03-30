@@ -10,8 +10,8 @@ The purpose of this project is to create a Yelp Recommendation system by using N
 Inferential Statistics
 Machine Learning
 Data Visualization
-Predictive Modeling
-etc.
+Singular Value Decomposition using Surprise
+LightFM
 
 # Technologies
 R

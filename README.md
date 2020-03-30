@@ -4,7 +4,7 @@ This is the last project while at Flatiron School Data Science Immersive Program
 -- Project Status: Completed
 
 # Project Intro/Objective
-The purpose of this project is to create a Yelp Recommendation system by using Neighborhood-based Collaborative Filtering models to get business recommendations for users. The model makes predictions (filtering) about the interests of a user by collecting preferences or information from many users (collaborating). The assumption is that if a person A has the same opinion as a person B on an issue, A is more likely to have B's opinion on a different issue.
+The purpose of this project is to create a Yelp Recommendation system using Neighborhood-based Collaborative Filtering models to get business recommendations for users. The model makes predictions (filtering) about the interests of a user by collecting preferences or information from many users (collaborating). The assumption is that if a person A has the same opinion as a person B on an issue, A is more likely to have B's opinion on a different issue.
 
 # Methods Used
 * Machine Learning
@@ -18,7 +18,8 @@ The purpose of this project is to create a Yelp Recommendation system by using N
 * Jupyter
 
 # Project Description
-The data is an open dataset that Yelp provides annually for use in personal, educational, and academic purposes. The original dataset contains 209,393 businesses, 1,968,703 users and 8,021,122 reviews across 10 metropolitan areas. 
+The data is an open dataset that Yelp provides annually for use in personal, educational and academic purposes. The original dataset contains 209,393 businesses, 1,968,703 users and 8,021,122 reviews covering 10 metropolitan areas. 
+
 * Exploratory Data Analysis
   * Which cities have the most reviews?
   * What are the top 20 categories?

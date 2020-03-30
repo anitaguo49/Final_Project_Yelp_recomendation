@@ -52,7 +52,6 @@ Follow setup [instructions](Link to file)
 # Featured Notebooks/Analysis/Deliverables
 Notebook/Markdown/Slide Deck Title
 Notebook/Markdown/Slide DeckTitle
-Blog Post
 
 # Contributing Members
 Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)
